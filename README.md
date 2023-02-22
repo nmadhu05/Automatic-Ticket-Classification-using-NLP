@@ -4,7 +4,9 @@ This is the Capstone Project I did as part of my Data Science Course. Used Pytho
 # Problem Statement
 Cluster the complaints received by a financial institution in to 5 categories. Create a model that can classify the tickets automatically which will help route the complaint to appropriate department and resolve it faster.
 
-# Process and Techniques used 
+# Process and Techniques used
+Data Extraction
+
 Exploratory Data Analysis
 
 Text Processing

@@ -33,7 +33,7 @@ Project Presentation Slides - "Presentation - Automatic Ticket Classification - 
 
 
 # Libraries or Packages used in this project:
-Below is the code used to import libraries (this will be helpful to understand where the pacages are imported from)
+Below is the code used to import libraries (this will be helpful to understand where the packages are imported from)
 Note: pip install is required to import some libraries, this is not shown in the notebook as they have been already installed on the local computer.
 
 import numpy as np
